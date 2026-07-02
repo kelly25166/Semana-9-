@@ -1,0 +1,9 @@
+Sistema operativo: Es el programa principal de la computadora (como Windows, Linux o macOS). Su función es administrar los recursos físicos y permitir que el resto de los programas funcionen.
+
+Node.js: Es una herramienta o entorno que permite ejecutar código JavaScript fuera de un navegador web. Su función principal es servir de base para construir servidores y aplicaciones web.
+
+Aplicación server.js: Es el archivo principal de tu proyecto donde escribes las instrucciones. Su función es crear el servidor web, definir sus reglas de comportamiento y responder a las peticiones de los usuarios.
+
+Puerto: Es una "puerta" virtual de comunicación dentro de tu equipo (por ejemplo, el puerto 3000). Su función es permitir que tu aplicación reciba y envíe datos a través de internet o la red.
+
+Logs: Son archivos de texto que guardan un registro de todo lo que ocurre en tu sistema. Su función es ayudarte a vigilar el programa y descubrir dónde hay errores si algo falla.
